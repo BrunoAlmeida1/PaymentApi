@@ -14,5 +14,5 @@ Contém os métodos:
 - HttpGet: ObterVendaPorId.
 - HttpPatch: AtualizarStatus.
 
-### Estrutura de Testes
+### Testes
 No projeto TestesDesafioPaymentApi instalamos a biblioteca xUnit para a realização de testes sobre o nosso projeto principal. Todos os testes realizados obteram sucesso.
