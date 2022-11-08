@@ -1,10 +1,12 @@
-## Estrutura da Payment API
+# API de Vendas
 
-# Models
+## Estrutura
+
+### Models
 - Possui duas classes, Venda e Vendedor.
 - Possui um enum que armazena os status das vendas.
 
-# Controller
+### Controller
 Contém os métodos:
 
 - HttpPost: CadastrarVendedor.
@@ -12,5 +14,5 @@ Contém os métodos:
 - HttpGet: ObterVendaPorId.
 - HttpPatch: AtualizarStatus.
 
-# Estrutura de Testes
+### Estrutura de Testes
 No projeto TestesDesafioPaymentApi instalamos a biblioteca xUnit para a realização de testes sobre o nosso projeto principal. Todos os testes realizados obteram sucesso.
