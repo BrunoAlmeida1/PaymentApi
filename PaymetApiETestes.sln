@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPaymentApi", "DesafioPaymentApi\DesafioPaymentApi.csproj", "{924D8DCF-2038-480C-B330-28AEBE4422A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesDesafioPaymentApi", "TestesDesafioPaymentApi\TestesDesafioPaymentApi.csproj", "{4C18B928-DDA2-4062-AD13-348B60521DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924D8DCF-2038-480C-B330-28AEBE4422A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D8DCF-2038-480C-B330-28AEBE4422A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D8DCF-2038-480C-B330-28AEBE4422A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D8DCF-2038-480C-B330-28AEBE4422A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C18B928-DDA2-4062-AD13-348B60521DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C18B928-DDA2-4062-AD13-348B60521DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C18B928-DDA2-4062-AD13-348B60521DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C18B928-DDA2-4062-AD13-348B60521DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
